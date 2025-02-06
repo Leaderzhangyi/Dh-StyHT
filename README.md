@@ -1,11 +1,11 @@
-<center><h1>DH-StyHT: Dunhuang Art Style Transfer via Hierarchical Vision Transformer and Color Consistency Constraints</h1></center
+<center><h1>DH-StyHT: Dunhuang Art Style Transfer via Hierarchical Vision Transformer and Color Consistency Constraints</h1></center>
+
 
 # Introduction
-
 This is the official implementation of the paper "DH-StyHT: Dunhuang Art Style Transfer via Hierarchical Visual Transformers and Color Consistency Constraints". This framework aims to meet the needs of promoting Dunhuang mural art in a modern context. This repository provides a pre-trained model for you to generate your own images based on content images and style images. In addition, you can download the publicly available dataset and weights from Google Drive.
 
 <div align="center">
-  <img src="imgs/differentStyle.png" width="50%" height="auto">
+  <img src="imgs/differentStyle.png" height="auto">
 </div>
 
 We agree that there are certain commonalities between artistic styles in terms of content and color expression, but we also note that some specific artistic styles (such as Dunhuang murals) have significant differences in fine-grained features, especially in terms of color balance and texture expression. It is very meaningful to explore a suitable Dunhuang style art migration framework.
